@@ -1,4 +1,4 @@
-ghost life
+ghost life hhafkhagfiagfcli
 ================
 
 This is a public place for all sample projects related to the GitHub Platform.
